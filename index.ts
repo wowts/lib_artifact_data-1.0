@@ -1,5 +1,4 @@
 import { LuaArray } from "@wowts/lua";
-import { AceModule } from "@wowts/tsaddon";
 
 export function RegisterCallback(arg0: any, arg1: any, arg2: any) {
 }
